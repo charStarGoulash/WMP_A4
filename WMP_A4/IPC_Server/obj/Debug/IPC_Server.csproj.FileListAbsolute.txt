@@ -1,0 +1,7 @@
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Server\bin\Debug\IPC_Server.exe.config
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Server\bin\Debug\IPC_Server.exe
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Server\bin\Debug\IPC_Server.pdb
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Server\obj\Debug\IPC_Server.csprojAssemblyReference.cache
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Server\obj\Debug\IPC_Server.csproj.CoreCompileInputs.cache
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Server\obj\Debug\IPC_Server.exe
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Server\obj\Debug\IPC_Server.pdb

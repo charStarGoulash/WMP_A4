@@ -1,0 +1,8 @@
+User: AK1, Message: AK1 : hi, Time: Nov Mon 19 18:29 2018
+User: AK2, Message: AK2 : hey how r u, Time: Nov Mon 19 18:30 2018
+User: AK1, Message: AK1 : good, Time: Nov Mon 19 18:30 2018
+User: AK1, Message: AK1 : TEST, Time: Nov Mon 19 19:17 2018
+User: AK2, Message: AK2 : AA, Time: Nov Mon 19 19:17 2018
+User: AK3, Message: AK3 : hello, Time: Nov Mon 19 19:19 2018
+User: AK3, Message: AK3 : what now, Time: Nov Mon 19 19:19 2018
+User: Attila,, Message: Attila, : okok, Time: Nov Mon 19 19:20 2018

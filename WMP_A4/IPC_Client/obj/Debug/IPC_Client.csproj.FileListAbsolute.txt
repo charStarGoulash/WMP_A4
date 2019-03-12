@@ -1,0 +1,15 @@
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\bin\Debug\IPC_Client.exe.config
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\bin\Debug\IPC_Client.exe
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\bin\Debug\IPC_Client.pdb
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client.csprojAssemblyReference.cache
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\MainWindow.g.cs
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\App.g.cs
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client_MarkupCompile.cache
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client_MarkupCompile.lref
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\MainWindow.baml
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client.g.resources
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client.Properties.Resources.resources
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client.csproj.GenerateResource.cache
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client.csproj.CoreCompileInputs.cache
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client.exe
+C:\Users\akato\Source\Repos\wmp_a042\IPC_Client\obj\Debug\IPC_Client.pdb
